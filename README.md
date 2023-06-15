@@ -1,1 +1,14 @@
-# Cipher-Project, within this project I wrote a function in javascript and a test case using mocha and chai to create a useable Caesar, polybius square, and substitution cipher. In this project I focused on using helper functions to write cleaner code as well as including code that will catch edge cases. For this project, I learned how to use 2-d arrays in order to avoid manually creating a encoding/decoding dictionary for the polybius square cipher. 
+# **Project Title**
+Cipher Project 
+
+## **Project Description** 
+Created a useable Caesar, polybius sqaure, and substitution cipher. 
+
+## Technology 
+* Javascript to write functions, focusing on using helper functions to write cleaner code and writing funtions to catch edge cases.
+* Mocha and Chai to write useable test cases
+
+## Skills Gained From Project 
+How to use 2-d arrays to avoid manually creating an encoding/decoding dictionary for the polybius sqaure cipher. 
+
+
